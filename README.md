@@ -1,6 +1,7 @@
 # ST3_Settings
 Modified Soda UI theme &amp; minor Custom User settings changes
 
+
 To change Soda UI theme add the Theme - SoDaReloaded.sublime-package to:
   ~/.config/sublime-text-3/Installed Packages (easier found going to Preferences->Browse Packages then up a directory and should see Installed Packages.
   
