@@ -14,5 +14,5 @@ to preferences.
 
 To get custom solarized light theme install "Solarized Color Scheme", open the Solarized (light).tmTheme using "package resource viewer" and copy the contents from here to it, save.
 
-![img](Example_solarized_light.png)
+![img](New_theme.png)
 ![img](Example.png)
