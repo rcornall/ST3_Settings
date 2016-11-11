@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"caret_extra_width": 0,
+	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_minimap_border": true,
@@ -12,6 +12,9 @@
 	[
 		"Vintage"
 	],
-	"theme": "Afterglow-orange.sublime-theme",
+    "index_files": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "theme": "Afterglow-orange.sublime-theme",
 	"wide_caret": false
 }
