@@ -12,9 +12,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f8e1a0</string>
+				<string>#e0c274</string>
 				<key>caret</key>
-				<string>#c70000</string>
+				<string>#ff0080</string>
 				<key>foreground</key>
 				<string>#392b38</string>
 				<key>gutter</key>
@@ -22,11 +22,11 @@
 				<key>invisibles</key>
 				<string>#eee8d5</string>
 				<key>lineHighlight</key>
-				<string>#fff1c3</string>
+				<string>#e7e68c</string>
 				<key>selection</key>
-				<string>#eee8d5</string>
+				<string>#fee8d5</string>
 				<key>selectionBorder</key>
-				<string>#0053ff</string>
+				<string>#000000</string>
 				<!-- Default looks best really -->
 				<key>findHighlight</key>
 				<string>#aaff00</string>
