@@ -3,16 +3,16 @@ Modified Soda UI theme &amp; minor Custom User settings changes
 
 ----------------------Brief---------------------------------------------
 
-These settings are for matching the UI (sidebar) to the Monokai color theme as well as smaller indentation, font changes etc.  but keeping the nice folders icons and tabs from Soda UI theme. Also minor user settings like show minimap viewport and bold folders
+These settings are for matching the UI (sidebar) to the Monokai color theme as well as smaller indentation, font changes etc.  but keeping the nice folders icons and tabs from afterglow theme. Also minor user settings changes.
 
 -----------------------How----------------------------------------------
 
-To change Soda UI theme add the Theme - SoDaReloaded.sublime-package to:
-  ~/.config/sublime-text-3/Installed Packages (easier found going to Preferences->Browse Packages then up a directory and should see Installed Packages.
-  
-To change the User settings copy the Preferences.sublime-settings to:
-  ~/.config/sublime-text-3/Packages/User/ and overwrite
-  or you can just go Preferences->User then copy the contents into it. Save and quit to make changes take effect.
+To change UI(sidebar) install "Afterglow theme" package, open the .Afterglow-orange.sublime-theme using "package resource viewer" and copy the contents from here to it, save. then add:
+        "theme": "Afterglow-orange.sublime-theme",
+to preferences.
 
-![img](Example_solarized_light.png)
+
+To get custom solarized light theme install "Solarized Color Scheme", open the Solarized (light).tmTheme using "package resource viewer" and copy the contents from here to it, save.
+
+![img](New_theme.png)
 ![img](Example.png)
